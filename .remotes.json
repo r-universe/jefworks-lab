@@ -1,0 +1,14 @@
+[
+  {
+    "package": "SEraster",
+    "url": "https://github.com/JEFworks-Lab/SEraster",
+    "via": ["scatterbar"],
+    "from": "scatterbar"
+  },
+  {
+    "package": "SpatialExperiment",
+    "url": "https://github.com/drighelli/SpatialExperiment",
+    "via": ["scatterbar"],
+    "from": "scatterbar"
+  }
+]

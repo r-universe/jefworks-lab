@@ -2,6 +2,14 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SEraster"]
+	path = SEraster
+	url = https://github.com/JEFworks-Lab/SEraster
+	registered = false
+[submodule "SpatialExperiment"]
+	path = SpatialExperiment
+	url = https://github.com/drighelli/SpatialExperiment
+	registered = false
 [submodule "scatterbar"]
 	path = scatterbar
 	url = https://github.com/jefworks-lab/scatterbar
